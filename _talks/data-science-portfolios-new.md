@@ -14,3 +14,4 @@ This is a slightly updated version of the talk I gave in 2018.
 
 * [Link to slides](http://www.rctatman.com/files/Tatman_2021_DataSciencePortfolios.pdf)
 * [Link to recording of the talk](https://www.youtube.com/watch?v=O4QEiHvncdk&ab_channel=RabbitHoleAI)
+* [Project-based resume I mentioned](http://www.rctatman.com/files/Tatman_projectBasedResume.pdf)
