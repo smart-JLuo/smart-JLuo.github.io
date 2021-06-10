@@ -81,9 +81,9 @@ author:
   avatar           : "rachael_headshot (2).jpg"
   bio              : "Data Science & NLP"
   location         : "Seattle, WA"
-  employer         : "Kaggle"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : "rachael.tatman@gmail.com"
+  email            : #"rachael.tatman@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
