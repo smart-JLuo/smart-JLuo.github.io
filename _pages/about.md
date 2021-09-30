@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a senior developer advocate for [Rasa](https://rasa.com/), where I'm helping devlopers build and deploy ML chatbots using our open source framework. 🤖💬
+I'm a senior developer advocate for [Rasa](https://rasa.com/), where I'm helping developers build and deploy ML chatbots using our open source framework. 🤖💬
 
 The best way to keep up with me is [on Twitter](https://twitter.com/rctatman).
 
