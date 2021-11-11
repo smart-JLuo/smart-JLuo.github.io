@@ -9,6 +9,8 @@ redirect_from:
 ---
 I'm a senior developer advocate for [Rasa](https://rasa.com/), where I'm helping developers build and deploy ML chatbots using our open source framework. 🤖💬
 
+For December 2021 and January 2022 I am also an Intermittent Lecturer in Information at the University of Michigan School of Information, where I'm a guest instructor for their data science master's program.
+
 The best way to keep up with me is [on Twitter](https://twitter.com/rctatman).
 
 I have a PhD in Linguistics from [the University of Washington](https://linguistics.washington.edu/). My research was on [computational sociolinguistics](https://makingnoiseandhearingthings.com/2017/06/13/what-is-computational-sociolinguistics-and-whos-doing-it/), or how our social identity affects the way we use language in computational contexts. Previously I was [a data scientist at Kaggle](https://www.kaggle.com/rtatman) and I'm still a Grandmaster. 
