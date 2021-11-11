@@ -7,7 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-My research has been discussed in many publications, including [The Economist](https://www.economist.com/news/books-and-arts/21737017-you-can-train-your-gadgets-understand-what-youre-saying-world) and [The Atlantic](https://www.theatlantic.com/business/archive/2016/12/good-girls-revolt/510245/). If you're a reporter, I'm always happy to chat about my research or data science in general. You can find my contact information in the left sidebar.
+I have written and been quoted in a number of pieces related to AI ethics and applications of NLP systems.
+
+*   Co-wrote op-ed with Dr. Emily Bender [AI surveillance in prisons is a terrible idea, both technologically and ethically](https://www.geekwire.com/2021/guest-post-ai-surveillance-prisons-terrible-idea-technologically-ethically/) in Geekwire
+*   Quoted in [Google Hopes AI Can Turn Search Into a Conversation](https://www.wired.com/story/google-hopes-ai-turn-search-conversation/) by Khari Johnson for Wired
+*   Quoted in [SOB confusion: How voice recognition is getting shaken up for health care](https://www.politico.com/newsletters/future-pulse/2021/04/28/sob-confusion-how-voice-recognition-is-getting-shaken-up-for-health-care-794924) by Mohana Ravindranath for Politico 
+
+My research has been discussed in many publications, including [The Economist](https://www.economist.com/news/books-and-arts/21737017-you-can-train-your-gadgets-understand-what-youre-saying-world) and [The Atlantic](https://www.theatlantic.com/business/archive/2016/12/good-girls-revolt/510245/). If you're a reporter, I'm always happy to chat about my research, natural language procesing of data science in general. You can find my contact information in the left sidebar.
 
 *   [This Boston Globe article](https://www.bostonglobe.com/ideas/2018/02/10/the-hashtag-right-overusing-capital-letters/vGaZgsGksDs7QeEjHSssUO/story.html) covers my work looking at patterns of capitalization and political affilation on Twitter.
 *   I was featured in the January 2018 edition of Seattle Met's "[Quote Unquote](https://www.seattlemet.com/articles/2017/12/19/meet-rachael-tatman-professional-emoji-whisperer)", talking about emoji and linguistics. The interview also featured this emoji-tastic photo by [Joshua Huston](https://www.seattlemet.com/producers/joshua-huston).
