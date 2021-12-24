@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Wenhan Gao"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
+name                     : &name "Wenhan Gao"
+description              : &description "Math student interested in data science and algorithms"
 url                      : https://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rctatman/rctatman.github.io"
