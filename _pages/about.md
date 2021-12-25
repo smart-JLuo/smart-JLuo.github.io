@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a senior developer advocate for [Rasa](https://rasa.com/), where I'm helping developers build and deploy ML chatbots using our open source framework. 🤖💬
+I'm recent graduate from [Stony Brook University](https://www.stonybrook.edu/), where I studied both applied mathematics and pure mathematics.
 
 For December 2021 and January 2022 I am also an Intermittent Lecturer in Information at the University of Michigan School of Information, where I'm a guest instructor for their data science master's program.
 
