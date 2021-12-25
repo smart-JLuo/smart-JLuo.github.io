@@ -13,7 +13,7 @@ name                     : &name "Wenhan Gao"
 description              : &description "Math student interested in data science and algorithms"
 url                      : https:\\wenhangao21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rctatman/rctatman.github.io"
+repository               : "wenhangao21/wenhangao21.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
+  name             : "Wenhan Gao"
   avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
+  bio              : "Applied Math Student"
+  location         : "Greater DC area, Greater NYC area"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : #"rachael.tatman@gmail.com"
+  googlescholar    : "https://www.researchgate.net/profile/Wenhan-Gao-4"
+  email            : "wenhan.gao@stonybrook.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,22 +91,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rctatman"
+  github           : "wenhangao21"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  linkedin         : "https://www.linkedin.com/in/wenhan-gao-2311611b4/?trk=public_profile_browsemap"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  twitter          : "rctatman"
+  twitter          : #"rctatman"
   vine             :
   weibo            :
   xing             :
-  youtube          : "RachaelTatmanNLP"
+  youtube          : #"RachaelTatmanNLP"
   wikipedia        :
 
 
