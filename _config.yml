@@ -82,7 +82,7 @@ author:
   bio              : "Applied Math Student"
   location         : "Greater DC area, Greater NYC area"
   employer         : 
-  googlescholar    : "https://www.researchgate.net/profile/Wenhan-Gao-4"
+  googlescholar    : #"https://www.researchgate.net/profile/Wenhan-Gao-4"
   email            : "wenhan.gao@stonybrook.edu"
   uri              :
   bitbucket        :
