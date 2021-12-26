@@ -13,4 +13,9 @@ I'm interested in Machine Learning, Data Science, and many other topics in appli
 
 The best way to contact me is through email: wenhan.gao(at symbol)stonybrook(dot)edu.
 
+Education
+======
+* B.S. in Applied Mathematics & Statistics, Stony Brook University, Summa Cum Laude, Dec. 2021
+
+
 
