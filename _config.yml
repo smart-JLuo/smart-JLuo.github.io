@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenhan Gao"
-  avatar           : #"wenhan_headshot.jpg"
+  avatar           : "wenhan_headshot.jpg"
   bio              : "Applied Math Student"
   location         : "Greater DC area, Greater NYC area"
   employer         : 
