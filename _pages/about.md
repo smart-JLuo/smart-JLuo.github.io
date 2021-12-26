@@ -15,7 +15,7 @@ The best way to contact me is through email: wenhan.gao(at symbol)stonybrook(dot
 
 Education
 ======
-* B.S. in Applied Mathematics & Statistics, Stony Brook University, Summa Cum Laude, Dec. 2021
+* B.S. in Applied Mathematics & Statistics, Summa Cum Laude, Stony Brook University, Dec. 2021
 
 
 
