@@ -3,7 +3,7 @@ title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "AMS 310"
 venue: Survey of Probability and Statistics
-permalink: /teaching/active-learning-presenting-research
+permalink: /teaching/2021_spring
 date: 2021-02-01
 ---
 
