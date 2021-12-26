@@ -17,5 +17,15 @@ Education
 ======
 * B.S. in Applied Mathematics & Statistics, Summa Cum Laude, Stony Brook University, Dec. 2021
 
+Language
+======
+* English, Mandarin(Chinese), Fuzhou dialect(Chinese)
+
+Technical Skills
+======
+* Python, Matlab, C++, Java , Excel VBA Programming
+* LaTex, Microsoft Office
+* Mathematical modeling, Scientific Computing, Mathematical Deep Learning
+
 
 
