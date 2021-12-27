@@ -18,7 +18,7 @@ Deep Learning and Active Learning for Solving PDEs(2021 Summer)
 Mathematical Biology(2020 Fall)
 ======
 * Research-based course on Mathematical Biology.
-* Projects: Influenza Epidemics, Population Dynamics: Lotka-Volterra Model, Population Dynamics of Cicadas and Flies: Logistic Model
+* Projects: Influenza Epidemics; Population Dynamics: Lotka-Volterra Model and Logistic Model
 
 
 
