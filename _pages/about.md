@@ -35,7 +35,7 @@ Licenses and Certifications
 
 List of Related Courses, Grades Received, and Textbook Used
 ======
-<a href="wenhangao21.github.io/files/Related_Course.pdf" target="_blank">Open List Here</a>
+[Open List Here](https://wenhangao21.github.io/files/Related_Course.pdf)
 
 
 
