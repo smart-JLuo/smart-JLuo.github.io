@@ -1,11 +1,12 @@
 ---
 permalink: /research_experiences/
-title: "Research_Experiences"
+title: "Research Experiences"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
 
 Deep Learning and Active Learning for Solving PDEs(2021 Summer)
 ======
