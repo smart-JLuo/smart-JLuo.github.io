@@ -1,6 +1,6 @@
 ---
-permalink: /media-coverage/
-title: "Media Coverage"
+permalink: /research_experiences/
+title: "Research_Experiences"
 author_profile: true
 redirect_from: 
   - /md/
