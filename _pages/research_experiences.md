@@ -17,6 +17,7 @@ Deep Learning and Active Learning for Solving PDEs(2021 Summer at Texas Tech)
 * Reproduced 3 recent DL based PDE solvers:  Deep Rits Method, Deep Galerkin Method, Weak Adversarial Networks
 * [Paper here](https://arxiv.org/abs/2112.13988)
 * [Git Repo here](https://github.com/wenhangao21/Active-Learning-Based-Sampling-for-High-Dimensional-Nonlinear-Partial-Differential-Equations)
+
 Mathematical Biology(2020 Fall)
 ======
 * Research-based course on Mathematical Biology.
