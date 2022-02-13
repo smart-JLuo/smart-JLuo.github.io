@@ -6,8 +6,8 @@ main:
   - title: "Teaching Experiences"
     url: /teaching/
         
-#  - title: "Blog"
-#    url: https://makingnoiseandhearingthings.com/
+  - title: "Blog"
+    url: /posts/
     
 #  - title: "CV"
 #    url: https://drive.google.com/file/d/1IkDN9fnbG1Zl0SVfKVhOGJd9Jp2yR6Oe/view?usp=sharing
