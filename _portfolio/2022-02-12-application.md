@@ -10,13 +10,13 @@ Post my experience here to help future applied math and statistics applicants.
 Undergrad Institution: State, Known for math  
 Major(s): Applied Math  
 Minor(s): None  
-GPA: 3.97 (around 20 upper division/graduate math or coding related courses)
+GPA: 3.97 (around 20 upper division/graduate math or coding related courses)  
 Type of Student: Asian, first gen  
   
 GRE Revised General Test:  
-Q: 170  ; )
-V: 149  : (
-W: 3.5  
+Q: 170  ; )  
+V: 149  : (  
+W: 3.5   
 Didn't sumbit to most schools with such a low verbal score. Wasted almost 1000 bucks.
   
 GRE Subject Test in Mathematics:  None, cancelled last moment due to Covid related
