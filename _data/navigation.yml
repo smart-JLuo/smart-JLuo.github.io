@@ -16,8 +16,6 @@ main:
   - title: "Research Experiences"
     url: /research_experiences/
     
-#  - title: "Personal"
-#    url: /personal/
-
-  - title: "Blog"
+  - title: "Personal Posts"
     url: /posts/
+
