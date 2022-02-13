@@ -28,14 +28,16 @@ Research Experience:One REU in deep learning/PDE, resulted in a paper.
 
 Awards/Honors/Recognitions: None?  
 
-Pertinent Activities or Jobs: Tutored in math learning center for 1 semester, TAed 2 semester  
+Pertinent Activities or Jobs: Tutored in math learning center for 1 semester, TAed 2 semesters  
 
 Any Miscellaneous Points that Might Help: 2 letters from research mentors(probably very very strong), third letter from different letter writers, but I expect all to be strong.
 
 Any Other Info That Shows Up On Your App and Might Matter: self-taught CS knowledge, but no officially recorded on transcripts, I mentioned in personal statement and on resume, not sure if schools will consider this.
 
 **Acceptance: Stony Brook(AMS), Colorado State(Statistics)**
+
 **Rejections: Cornell(CAM)**
+
 **Awaiting Decision: UIUC Stats, Virginia stats, Boston stats, Northwestern stats, Ohio stats, Pittsburg stats, Berkerley IEOR master, Columbia Data science master**
 
 # My thoughts
