@@ -41,7 +41,7 @@ Any Other Info That Shows Up On Your App and Might Matter: self-taught CS knowle
 **Awaiting Decision: UIUC Stats, Virginia stats, Boston stats, Northwestern stats, Ohio stats, Pittsburg stats, Berkerley IEOR master, Columbia Data science master**
 
 # My thoughts
-1. Don't underestimate yourself. I didn't apply to many prestigious programs because I thought I didn't even have a chance to get in. But, for sure, I regret it as I have seen, on Math GRE forum, many successful results from aaplication who have similar backgrounds as me.
+1. Don't underestimate yourself. I didn't apply to many prestigious programs because I thought I didn't even have a chance to get in. But, for sure, I regret it as I have seen, on Math GRE forum, many successful results from applicants who have similar backgrounds as me.
 2. Think about what you really want to do in graduate studies first, and do some research on potential programs to see if there are faculty members whose research areas allign with yours.
 3.  Go for masters if you are not ready. Academia is competitive nowadays, most applied math Ph.D. graduates(not from schools like MIT) work in the industry.
 4. If your goal is to become a program developer, ML/DS researcher, algorithm developer, and etc. for big tech companies, and you think you have better chances of getting into applied math programs than CS programs, there are programs that allow interdisciplinary works in computer science, to name a few, Johns Hopkins and U of Maryland.
