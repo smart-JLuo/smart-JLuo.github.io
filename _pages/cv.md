@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Summa Cum Laude in Mathematics; Applied Mathematics & Statistics; Stony Brook University, Dec. 2021
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Graph Theory
+* Scientific Computing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab, C++, Java , Octave, Excel VBA Programming
+* LaTex, Microsoft Office
+* Mathematical modeling, Scientific Computing, Mathematical Deep Learning, Machine Learning
+  
+Licenses and Certifications
+======
+* Machine Learning(Coursera)
+* Deep Learning Specialization(Course Series by Andrew Ng on Coursera)
+* Mastering Programming with MATLAB(Coursera)
 
-Publications
+List of Relevant Courses, Grades Received, and Textbook Used
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Open List Here](https://wenhangao21.github.io/files/Relevant_Coursework.pdf)
+
