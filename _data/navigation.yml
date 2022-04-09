@@ -18,8 +18,5 @@ main:
   - title: "Presentation"
     url: /talks/   
         
-  - title: "Projects"
-    url: /projects/
-
   - title: "Blog"
     url: /portfolio/
