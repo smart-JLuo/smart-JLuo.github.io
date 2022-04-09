@@ -36,12 +36,12 @@ Computational Mathematical Biology: Population Dynamics
 Deep Learning
 ======
 * Projects written in Python(jupyter notebook). Part of the Deep Learning Course authorized by Stanford University and offered through Coursera.
-* [jupyter notebooks here](https://github.com/wenhangao21/Deep-Learning)
+* [Jupyter notebooks here](https://github.com/wenhangao21/Deep-Learning)
 
 Machine Learning
 ======
 * Projects written in Octave. Part of the Machine Learning Course authorized by Stanford University and offered through Coursera.
-* [jupyter notebooks here](https://github.com/wenhangao21/Machine-Learning)
+* [Octave code here](https://github.com/wenhangao21/Machine-Learning)
 
 Various Programs in Computational Mathematics
 ======
