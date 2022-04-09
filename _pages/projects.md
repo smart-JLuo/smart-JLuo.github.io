@@ -1,15 +1,13 @@
 ---
 permalink: /projects/
-title: "Projects and Research"
+title: "Projects and Research Experience"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-# Research Experience
-
-## Deep Learning and Active Learning for Solving PDEs(2021 Summer at Texas Tech)
+Deep Learning and Active Learning for Solving PDEs(2021 Summer at Texas Tech)
 ======
 * NSF funded summer research program.
 * Designed Active Learning based Sampling to adaptively sample training examples to faster the convergence.
@@ -19,7 +17,6 @@ redirect_from:
 * [Paper here](https://arxiv.org/abs/2112.13988)
 * [Git Repo here](https://github.com/wenhangao21/Active-Learning-Based-Sampling-for-High-Dimensional-Nonlinear-Partial-Differential-Equations)
 
-## Projects
 
 Projecting the Effectiveness of Covid Vaccines
 ======
