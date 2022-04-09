@@ -35,5 +35,5 @@ Licenses and Certifications
 
 List of Relevant Courses, Grades Received, and Textbook Used
 ======
-[Open List Here](https://wenhangao21.github.io/files/Relevant_Coursework.pdf)
+[Open List Here](https://wenhangao21.github.io/files/Relevant_Coursework_and_Certificates.pdf)
 
