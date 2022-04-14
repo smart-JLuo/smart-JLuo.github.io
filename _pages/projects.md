@@ -18,10 +18,20 @@ Deep Learning and Active Learning for Solving PDEs(2021 Summer at Texas Tech)
 * [Git Repo here](https://github.com/wenhangao21/Active-Learning-Based-Sampling-for-High-Dimensional-Nonlinear-Partial-Differential-Equations)
 
 
+A Polyalphabetic-Decoder
+======
+* A program to decrypt ciphertexts that are encryted by Vigenère and keyword transpose encoding。
+* Developed algorithms to recommend most promising cipher keys to reduce computational expense.
+* Did Mathematical analysis to reduce the complexity of the problem from $O(2^n)$ to $O(2^{n-1})$.
+* [Documentation Here](https://wenhangao21.github.io/files/Polyalphabetic_Encryption_and_Decryption.pdf)
+* [User Guide Here](https://github.com/wenhangao21/Polyalphabetic-Decoder/blob/main/User_Guide.pdf)(notebook file also available in git repo)
+* [Git Repo here](https://github.com/wenhangao21/Polyalphabetic-Decoder)
+
+
 Projecting the Effectiveness of Covid Vaccines
 ======
 * A program written in Visual Basic that takes user input and outputs corresponding predictive data, including constant model and probabilistic model, of Covid-19 disease population dynamics and its visualization in plot and graphs.
-* [Details here](https://github.com/wenhangao21/Active-Learning-Based-Sampling-for-High-Dimensional-Nonlinear-Partial-Differential-Equations)
+* [Details here](https://github.com/wenhangao21/SBU-EST-305-Applications-Software-for-Information-Management/blob/main/Final_Project_EST_305%20(2).pdf)
 
 Computational Mathematical Biology: Population Dynamics
 ======
