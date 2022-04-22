@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an incoming Ph.D. student in Applied Mathematics with a focus on [computational sciences](https://www.stonybrook.edu/commcms/ams/research/appliedmath.php) at Stony Brook University.  
+I'm an incoming Ph.D. student in Applied Mathematics at Stony Brook University.  
 
 Previously, I obtained a Bachelor of Science degree with highest distinction from [Stony Brook University](https://www.stonybrook.edu/) in both [applied mathematics](https://www.stonybrook.edu/commcms/ams/)📙 and [pure mathematics](http://www.math.stonybrook.edu/)📕.
 
