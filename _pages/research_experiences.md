@@ -13,7 +13,7 @@ Current Research Interests
 * Equivariant Networks (Embedding symmetries into neural networks); [Short Intro](https://drive.google.com/file/d/1Mp0FrIvr9rkGHyLgVrMT39y03Ib9qTk7/view?usp=sharing)
 
 
-Past Research: Deep Learning and Active Learning for Solving PDEs(2021 Summer at Texas Tech)
+Past Research: Physics Informed Neural Networks
 ======
 * Participated in the NSF funded REU program “Mathematical, Statistical and Computational Methods for Problems inthe Life Sciences”.
 * Designed Active Learning based Sampling to adaptively sample training examples to faster the convergence.
