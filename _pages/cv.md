@@ -15,10 +15,12 @@ Education
 
 Research Interests
 ======
-* Machine Learning
+* [My Research Homepage](https://zbz3th212a4.larksuite.com/wiki/KepHwqohli4xq3kehQFu50pRseh)
+* Neural Operators
+* AI for Science
 * Deep Learning
 * Computer Vision
-* Graph Theory
+* Discrete Math
 * Scientific Computing
 
 Technical Skills
@@ -27,13 +29,5 @@ Technical Skills
 * LaTex, Microsoft Office
 * Mathematical modeling, Scientific Computing, Mathematical Deep Learning, Machine Learning
   
-Licenses and Certifications
-======
-* Machine Learning(Coursera)
-* Deep Learning Specialization(Course Series by Andrew Ng on Coursera)
-* Mastering Programming with MATLAB(Coursera)
 
-List of Relevant Courses, Grades Received, and Textbook Used
-======
-[Open List Here](https://wenhangao21.github.io/files/Relevant_Coursework_and_Certificates.pdf)
 

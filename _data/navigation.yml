@@ -6,17 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
     
-#  - title: "Research Experiences"
-#    url: /research_experiences/
+  - title: "Research"
+    url: /research_experiences/
     
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
     
-  - title: "Teaching Experiences"
-    url: /teaching/
+#  - title: "Teaching Experiences"
+#    url: /teaching/
     
-  - title: "Presentation"
-    url: /talks/   
+#  - title: "Presentation"
+#    url: /talks/   
         
-  - title: "Blog"
-    url: /portfolio/
+#  - title: "Blog"
+#    url: /portfolio/
