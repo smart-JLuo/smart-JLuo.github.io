@@ -15,7 +15,6 @@ Education
 
 Research Interests
 ======
-* [My Research Homepage](https://zbz3th212a4.larksuite.com/wiki/KepHwqohli4xq3kehQFu50pRseh)
 * Neural Operators
 * AI for Science
 * Deep Learning

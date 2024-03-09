@@ -8,6 +8,7 @@ redirect_from:
 ---
 Current Research Interests
 ======
+* Up to date information about my research can be found on [My Research Homepage](https://zbz3th212a4.larksuite.com/wiki/KepHwqohli4xq3kehQFu50pRseh)
 * Neural Operators (Learning in infinite-dimensional function spaces, as opposed to traditional neural networks that learn vector-to-vector mappings); [Short Intro](https://drive.google.com/file/d/1vG3vaV81BF-tqIAKOKcjvu__iU3Yvdgz/view?usp=sharing)
 * Equivariant Networks (Embedding symmetries into neural networks); [Short Intro](https://drive.google.com/file/d/1Mp0FrIvr9rkGHyLgVrMT39y03Ib9qTk7/view?usp=sharing)
 
