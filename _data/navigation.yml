@@ -20,3 +20,6 @@ main:
         
 #  - title: "Blog"
 #    url: /portfolio/
+
+  - title: "Services"
+    url: /services/
