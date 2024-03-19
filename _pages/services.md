@@ -9,8 +9,8 @@ redirect_from:
 
 Journal/Conference Reviewer
 ======
-ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
-
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024
+International Conference on Machine Learning (ICML), 2024
 
 
 
