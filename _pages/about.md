@@ -15,5 +15,5 @@ I'm interested in Neural Operators and AI for Science; I'm also broadly interest
 
 
  
-The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook(dot)com 📫  
+The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook(dot)edu 📫  
 
