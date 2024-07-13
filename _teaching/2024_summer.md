@@ -7,4 +7,4 @@ permalink: /teaching/2024_summer
 date: 2024-07-01
 ---
 
-Instructor for AMS 380 Data Mining. Topics include Cluster analysis, Principle Component Analysis, Statistical Resampling Methods, Tree-based Learning, Neural Networks.
+Instructor for AMS 326 Numerical Analysis. Topics include Definition and analysis of errors, Direct and indirect numerical methods for the solution of linear and nonlinear algebraic equations, Computation of eigenvalues and eigenvectors of matrices, Quadrature, differentiation, and curve fitting, Numerical solution of simple ordinary differential equations, Optimizations, and Fast Fourier transforms.
