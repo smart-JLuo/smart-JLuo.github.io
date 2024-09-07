@@ -1,8 +1,8 @@
 ---
 title: "Instructor"
 collection: teaching
-type: "AMS 380"
-venue: Data Mining
+type: "AMS 326"
+venue: Numerical Analysis
 permalink: /teaching/2024_summer
 date: 2024-07-01
 ---
