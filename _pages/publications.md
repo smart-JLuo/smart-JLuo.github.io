@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "First or Co-first Author Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-# First or Co-first Author Publications
-
 \* indicates equal contributors.
 
 {% if author.googlescholar %}
@@ -18,3 +15,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+# Other Publications
