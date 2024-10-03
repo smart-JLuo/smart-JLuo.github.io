@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,49 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-I am a first-year PhD student at UC San Diego department of CSE, advised by [Professor Rose Yu](https://roseyu.com/). My current research interest lies in physics-informed machine learning and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery.
-
-For more details, see my full [cv](https://drive.google.com/file/d/1q44W4cmTPSJ-un6kSR47AQAZX7uVgNTa/view?usp=share_link). Below is a summary of my past experience.
-
 Education
 ======
-* B.S. in Computer Science and Technology, Tsinghua University, 2018-2022
-* Ph.D in Computer Science, UC San Diego, 2022-
+* Major in Computer Science and Information Security (3.97/4.0); Queensborough Community College, Aug. 2018 - May 2019
+* B.S. Summa Cum Laude in Mathematics; Applied Mathematics & Statistics (3.97/4.0); Stony Brook University, Aug. 2019 - Dec. 2021
+* Ph.D. Operations Research (4.0/4.0); Stony Brook University, Aug. 2022 - TBD
 
-Work experience
+Research Interests
 ======
-* Summer 2021: Research Assistant
-  * University of Southern California
-  * Conducted research on multi-domain federated learning
-  * Supervisor: Professor Yan Liu
+* Neural Operators
+* AI for Science
+* Deep Learning
+* Computer Vision
+* Discrete Math
+* Scientific Computing
 
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-  
-Skills
+A Little More About Me
 ======
-* Programming: Python, R, MATLAB, C/C++, Java, Rust
+I am a first-generation immigrant. My family and I moved to the United States, like many others, in pursuit of a better life—the American dream. When we first arrived, I barely spoke English. College wasn’t my favorite place at first—in fact, I hated school. I worked in restaurants, food stands, and did food deliveries. After a year of hard labor, I decided to continue my education—probably because my parents wanted me to as well. I started at a community college, not even in an associate degree program, but in an immersion program to learn English. Later, I transferred to Stony Brook University. I didn’t even learn Calculus 2 until my sophomore year. Now, I am a Ph.D. student in applied mathematics and have first-authored several papers in top-tier journals and conferences. I’m grateful to everyone who supported me along the way. While I’m still on my journey to success, I hope my story can motivate others who are struggling. It’s never too late to start something.
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
+
+
+
