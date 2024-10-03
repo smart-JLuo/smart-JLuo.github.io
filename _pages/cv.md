@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Major in Computer Science and Information Security (3.97/4.0); Queensborough Community College, Aug. 2018 - May 2019
-* B.S. Summa Cum Laude in Mathematics; Applied Mathematics & Statistics (3.97/4.0); Stony Brook University, Aug. 2019 - Dec. 2021
+* Computer Science and Information Security (3.97/4.0); Queensborough Community College, Aug. 2018 - May 2019
+* B.S. Mathematics; Applied Mathematics & Statistics (3.97/4.0); Stony Brook University, Aug. 2019 - Dec. 2021
 * Ph.D. Operations Research (4.0/4.0); Stony Brook University, Aug. 2022 - TBD
 
 Research Interests
