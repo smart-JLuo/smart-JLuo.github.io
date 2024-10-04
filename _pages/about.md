@@ -23,8 +23,8 @@ The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook
 * August 2024: Finished teaching AMS 326, Numerical Analysis. Congrats to all my students on a job well done!
 * August 2024: Mentored undergraduate student Xiang Liu (freshman in CS/AMS), who successfully completed a summer research project on neural operators for climate change through the SUNY SOAR program.Congrats!
 * March 2024: Awarded the Excellence in Student Teaching Award from the AMS department at Stony Brook for Fall 2023!
-* August 2024: Passed Ph.D. qualifying exam in AMS!
 * December 2023: Finished teaching the graduate course AMS 595, Fundamentals of Computing. Congrats to all my students on a job well done!
+* August 2023: Passed Ph.D. qualifying exam in AMS!
 * February 2023: First author on a paper on [active learning-based sampling for high-dimensional PDEs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=te4HWo0AAAAJ&citation_for_view=te4HWo0AAAAJ:u5HHmVD_uO8C) published in the Journal of Computational Physics.
 
 
