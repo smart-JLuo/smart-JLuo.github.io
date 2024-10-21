@@ -19,6 +19,7 @@ Research Interests
 ======
 * Neural Operators
 * AI for Science
+* Generative Models
 * Deep Learning
 * Computer Vision
 * Discrete Math
