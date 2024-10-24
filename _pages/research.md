@@ -10,7 +10,7 @@ Current Research Interests
 ======
 * Neural PDE Solvers [My Resarch Home Page](https://zbz3th212a4.larksuite.com/docx/M0Kpdfmg8oOryjxt0nZuOI7ds2g?from=from_copylink)
 	* Neural Operators (Learning in infinite-dimensional function spaces, as opposed to traditional neural networks that learn vector-to-vector mappings)
-		* [Short Intro: Neural Operators](https://wenhangao21.github.io/files/Neural_Operator_files/Neural_operators.pdf)
+		* [Short Intro: Neural Operators](https://wenhangao21.github.io/files/Neural_Operator_files/Neural_Operators.pdf)
 	* Physics Informed Neural Networks (Solving PDEs by penalizing the extent to which the network solution violates the PDE)
 		* [Sec. 1.2.2 of My Paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999122009111)
 		* [Exemplary Notebook for Simple 2D Poisson](https://github.com/wenhangao21/wenhangao21.github.io/tree/master/files/PINN_files/PINN_Example_Simple_2D_Poission.ipynb)
