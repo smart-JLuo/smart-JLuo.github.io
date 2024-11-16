@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenhan Gao"
+title                    : "Jian Luo"
 title_separator          : "-"
-name                     : &name "Wenhan Gao"
+name                     : &name "Jian Luo"
 description              : &description ""
-url                      : https:\\wenhangao21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:\\smart-jluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wenhangao21/wenhangao21.github.io"
+repository               : "smart-JLuo/smart-JLuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenhan Gao"
-  avatar           : "wenhan_headshot.jpg"
-  bio              : "PhD student at Stony Brook"
-  location         : "Stony Brook, NY"
+  name             : "Jian Luo"
+  avatar           : ""
+  bio              : "Master student at USTC"
+  location         : "Hefei, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=te4HWo0AAAAJ"
+  googlescholar    :  "https://scholar.google.com/citations?user=AGvDtzwAAAAJ"
   email            : #"wenhan"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wenhangao21"
+  github           : "smart-JLuo"
   google_plus      :
   keybase          :
   instagram        :
