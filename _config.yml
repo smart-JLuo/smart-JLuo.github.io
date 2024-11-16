@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jian Luo"
-  avatar           : "image.jpg"
+  avatar           : "files/image.jpg"
   bio              : "Master student at USTC"
   location         : "Hefei, China"
   employer         :
