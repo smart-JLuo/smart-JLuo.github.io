@@ -35,5 +35,5 @@ If you are interested about my research topics, feel free to contact me through 
 
 
 # 🍳 First or Co-first Author Preprints
-* One paper on eigenfunction problem for high dimension PDEs; submitted to **ICLR 25**; Hong Wang, Jiang Yixuan, Jie Wang, Xinyi Li, **Jian Luo**, huanshuo dong
+* One paper on eigenfunction problems for high dimension PDEs; submitted to **ICLR 25**; Hong Wang, Jiang Yixuan, Jie Wang, Xinyi Li, **Jian Luo**, Huanshuo Dong
 * One paper on designing enhanced kernels for localized effects and interactions in FNO; submitted to **CVPR 25**; W.Gao, **J.Luo**, Y.Liu
