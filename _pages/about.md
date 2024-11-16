@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me
-I'm a third-year master student in Electronic Engineering and Information Science at University of Science and Technology of China.
+I'm a third-year master student in Electronic Engineering and Information Science at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 Previous, I obtained a Bachelor of Engineering from [Central China Normal University](https://english.ccnu.edu.cn/) in [Electronic Information Engineering](https://physics.ccnu.edu.cn/English.htm).
 
