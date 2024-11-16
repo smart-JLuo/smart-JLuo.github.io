@@ -10,7 +10,7 @@ redirect_from:
 # 🤔 About me
 I'm a third-year master student in Department of Electronic Engineering and Information Science at [University of Science and Technology of China](https://en.ustc.edu.cn/). 📕
 
-Previous, I obtained a Bachelor of Engineering from [Central China Normal University](https://english.ccnu.edu.cn/) in [Electronic Information Engineering](https://physics.ccnu.edu.cn/English.htm).
+Previously, I obtained a Bachelor of Engineering from [Central China Normal University](https://english.ccnu.edu.cn/) in [Electronic Information Engineering](https://physics.ccnu.edu.cn/English.htm).
 
 I'm interested in Natural Language Processing, LLMs, Knowledge Graph, Operator Learning, and AI for Science. Also I have published several papers about AI4PDE and AI for Scientific Computing. 
 
