@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # 🤔 About me
-I'm a third-year master student in Electronic Engineering and Information Science at [University of Science and Technology of China](https://en.ustc.edu.cn/). 📕
+I'm a third-year master student in Department of Electronic Engineering and Information Science at [University of Science and Technology of China](https://en.ustc.edu.cn/). 📕
 
 Previous, I obtained a Bachelor of Engineering from [Central China Normal University](https://english.ccnu.edu.cn/) in [Electronic Information Engineering](https://physics.ccnu.edu.cn/English.htm).
 
@@ -35,5 +35,5 @@ If you are interested about my research topics, feel free to contact me through 
 
 
 # 🍳 Preprints
-* One paper on eigenfunction problems for high dimension PDEs; submitted to **ICLR 25**; Hong Wang, Jiang Yixuan, Jie Wang, Xinyi Li, **Jian Luo**, Huanshuo Dong
+* One paper on eigenfunction problems for high dimension PDEs; submitted to **ICLR 25**; H.Wang, Y.Jiang, J.Wang, X.Li, **J.Luo**, H.Dong
 * One paper on designing enhanced kernels for localized effects and interactions in FNO; submitted to **CVPR 25**; W.Gao, **J.Luo**, Y.Liu
