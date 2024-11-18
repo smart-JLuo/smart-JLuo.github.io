@@ -14,7 +14,7 @@ Previously, I obtained a Bachelor of Engineering from [Central China Normal Univ
 
 I'm interested in Natural Language Processing, LLMs, Knowledge Graph, Operator Learning, and AI for Science. Also I have published several papers about AI4PDE and AI for Scientific Computing. 
 
-Currently, I'm working with [Wenhan Gao](https://wenhangao21.github.io/) for designing enhanced kernels for localized effects and interactions in FNO. Before that, I worked with [Hong Wang](https://wanghong1700.github.io/) for AI4PDE and AI for Scientific Computing, and worked with Hanzhu Chen for Knowledge Graph and LLMs.
+Currently, I'm working with [Wenhan Gao](https://wenhangao21.github.io/) for designing enhanced kernels for localized effects and interactions in FNO. Before that, I worked with [Hong Wang](https://wanghong1700.github.io/) and Huanshuo Dong for AI4PDE and AI for Scientific Computing, and worked with Hanzhu Chen for Knowledge Graph and LLMs.
 
 If you are interested about my research topics, feel free to contact me through my email: jianluo(at)mail(dot)ustc(dot)edu(dot)com . 📫
 
