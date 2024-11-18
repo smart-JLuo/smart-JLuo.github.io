@@ -24,11 +24,11 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
-  - title: "Services"
-    url: /services/
+  # - title: "Services"
+  #   url: /services/
