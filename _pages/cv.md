@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.E Communication Engineering; Department of Electronic Engineering and Information Science (3.76/4.3); University of Science and Technology, China, Spe. 2022 - Now
+* M.E. Communication Engineering; Department of Electronic Engineering and Information Science (3.76/4.3); University of Science and Technology, China, Sep. 2022 - Now
 * B.E. Electronic Information Engineering; College of Physical Science and Technology (85/100); Central China Normal University, Sep. 2017 - Jun. 2021
 
 Research Interests
 ======
-* Neural Operators
+* LLM inference
+* Knowledge Editing
+* AIPDE
 * AI for Science
-* Large Language Model
-* Natural Language Processing
 
 <!-- A Little More About Me
 ======
