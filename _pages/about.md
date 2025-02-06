@@ -1,44 +1,27 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me
-I'm a third year Ph.D. student in Applied Mathematics at Stony Brook University supervised by [Professor Yi Liu](https://jacoblau0513.github.io/). 
+## 🤔 About me
+I'm a third-year master student in Department of Electronic Engineering and Information Science at [University of Science and Technology of China](https://en.ustc.edu.cn/). 📕 Previously, I obtained a Bachelor of Engineering from [Central China Normal University](https://english.ccnu.edu.cn/) in [Electronic Information Engineering](https://physics.ccnu.edu.cn/English.htm).
 
-Previously, I obtained a Bachelor of Science degree from [Stony Brook University](https://www.stonybrook.edu/) in both [applied mathematics](https://www.stonybrook.edu/commcms/ams/)📙 and [pure mathematics](http://www.math.stonybrook.edu/)📕.
+I'm interested in Natural Language Processing, LLM inference, and Operator Learning. Currently, I'm working with [Wenhan Gao](https://wenhangao21.github.io/) for designing enhanced kernels for localized effects and interactions in FNO. Before that, I worked with [Hong Wang](https://wanghong1700.github.io/) and Huanshuo Dong for AI4PDE and AI for Scientific Computing, and worked with Hanzhu Chen for Knowledge Graph and LLMs.
 
-My research focuses on **Geometric Deep Learning, Generative Models, Neural Operators, and AI for Science in general**.
-
-The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook(dot)edu 📫  
-
-Education
-======
-* Computer Science and Information Security (3.97/4.0); Queensborough Community College, Aug. 2018 - May 2019
-* B.S. Mathematics; Applied Mathematics & Statistics (3.97/4.0); Stony Brook University, Aug. 2019 - Dec. 2021
-* Ph.D. Operations Research (4.0/4.0); Stony Brook University, Aug. 2022 - TBD
+If you are interested about my research topics, feel free to contact me through my email: jianluo(at)mail(dot)ustc(dot)edu(dot)com . 📫
 
 
-# News
-* January 2025: First author on a paper accepted by ICLR 2025 on [discretization mismatch errors in neural operators](https://openreview.net/forum?id=J9FgrqOOni). 
-* December 2024: Accepted an offer from [Visa Research](https://usa.visa.com/about-visa/visa-research.html) to work as an intern staff research scientist over the summer.
-* November 2024: Passed the preliminary exam in AMS. [Slides](https://wenhangao21.github.io/files/Wenhan_Prelim_Public.pdf)
-* October 2024: Received the NeurIPS Scholar Award, see you in Vancouver.
-* September 2024: Co-first author on a paper, in collaboration with FSU, accepted by NeurIPS on [symmetries for molecular GNN active learning](https://www.cs.fsu.edu/dr-shayok-chakraborty-has-a-paper-accepted-at-neurips-2024/)!
-* September 2024: First author on a paper accepted by TMLR on [symmetries in neural operators](https://openreview.net/forum?id=pMD7A77k3i)!
-* August 2024: Finished teaching AMS 326, Numerical Analysis. Congrats to all my students on a job well done! [Syllabus](https://wenhangao21.github.io/files/AMS326_teaching/AMS_326_Syllabus.pdf);[Lecture Notes](https://github.com/wenhangao21/wenhangao21.github.io/tree/master/files/AMS326_teaching)
-* August 2024: Mentored undergraduate student Xiang Liu (freshman in CS/AMS), who successfully completed a summer research project on neural operators for climate change through the SUNY SOAR program. Congrats!
-* March 2024: Awarded the Excellence in Student Teaching Award from the AMS department at Stony Brook for Fall 2023!
-* December 2023: Finished teaching the graduate course AMS 595, Fundamentals of Computing. Congrats to all my students on a job well done! [Syllabus](https://wenhangao21.github.io/files/AMS595_teaching/595_Syllabus_Fall2023.pdf);[Lecture Notes](https://github.com/wenhangao21/wenhangao21.github.io/tree/master/files/AMS595_teaching)
-* August 2023: Passed Ph.D. qualifying exam in AMS!
-* February 2023: First author on a paper on [active learning-based sampling for high-dimensional PDEs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=te4HWo0AAAAJ&citation_for_view=te4HWo0AAAAJ:u5HHmVD_uO8C) published in the Journal of Computational Physics.
+## ✨ News 
 
-# First or Co-first Author Publications
+* September 2024: Paper **"Neural Krylov Iteration for Accelerating Linear System Solving"** accepted by NeurIPS as **Spotlight**.
+
+* May 2024: Paper **"Accelerating PDE Data Generation via Differential Operator Action in Solution Space"** accepted by ICML.
+
+## 🎉 Publications 
 
 \* indicates equal contributors.
 
@@ -47,8 +30,6 @@ Education
 {% endfor %}
 
 
-# First or Co-first Author Preprints
-* One paper that reveals neural operators can learn hidden physics from data; In Submission to ICML 25; **W.Gao\***, J.Luo\*, R.Xu, F.Wan, X.Liu, Y.Liu
-* One paper that proposes a principled explanation method for 3D GNNs (explainable AI); In Submission to ICML 25; J.Qu\*, **W.Gao\***, J.Zhang, X.Liu, H.Wei, H.Ling, Y.Liu
-* One paper addressing the misalignment between optimized masks and actual explanatory subgraphs in 3D GNNs; In Submission; X.Liu\*, **W.Gao\***, Y.Liu
-* One paper on designing enhanced kernels for localized effects and interactions in FNO; In Submission; **W.Gao**, J.Luo, R.Xu, Y.Liu
+## 🍳 Preprints
+* One paper on eigenfunction problems for high dimension PDEs; submitted to **ICLR 25**; H.Wang, Y.Jiang, J.Wang, X.Li, **J.Luo**, H.Dong
+* One paper on designing enhanced kernels for localized effects and interactions in FNO; submitted to **CVPR 25**; W.Gao, **J.Luo**, Y.Liu

@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Short CV"
-#    url: /cv/
+  - title: "Short CV"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -24,14 +24,11 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
-  - title: "Services"
-    url: /services/
-    
-  - title: "Technical Blogs"
-    url: /tech_blogs/
+  # - title: "Services"
+  #   url: /services/
